@@ -33,7 +33,12 @@ After VPN: New IP reflected a Netherlands-based location.
 ## 6. Disconnect & Compare
 **Disconnected the VPN**
 -Rechecked IP address — it returned to my original ISP location.
--Browsing speeds were slightly faster after disconnection 
+-Browsing speeds were slightly faster after disconnection
+
+(screenshot 8 - Is when I opened the vpn andin't connected it 
+ screenshot 9 - I connected it to netherland
+ screenshot 10 - I disconnected the vpn)
+
 ## VPN Encryption & Privacy Features
 -Encryption: VPNs use AES-256 or ChaCha20 to secure traffic.
 -rotocols: OpenVPN, WireGuard, IKEv2 — different levels of speed and security.
